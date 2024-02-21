@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clientes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Clientes\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:54:31.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
