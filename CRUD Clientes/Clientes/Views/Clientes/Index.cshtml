@@ -4,10 +4,16 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<script>
+    $(document).ready(function () {
+        $('.table').DataTable();
+    });
+</script>
+
+<h1>Lista de Clientes</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <h5><a asp-action="Create">Cadastrar novo Cliente</a></h5>
 </p>
 <table class="table">
     <thead>
@@ -37,9 +43,8 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
             </td>
         </tr>
 }

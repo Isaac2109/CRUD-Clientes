@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\migrations\\20240223144224_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\migrations\\20240223144224_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|c:\\users\\lrsia\\documents\\github\\crud-clientes\\crud clientes\\clientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73927D0F-7ECD-4309-89D2-52C89F3A2583}|Clientes\\Clientes.csproj|solutionrelative:clientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240223144224_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Migrations\\20240223144224_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Clientes\\Migrations\\20240223144224_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Migrations\\20240223144224_InitialCreate.cs",
-              "RelativeToolTip": "Clientes\\Migrations\\20240223144224_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T14:42:52.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Clientes\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Clientes\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T14:36:57.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Program.cs",
-              "RelativeDocumentMoniker": "Clientes\\Program.cs",
-              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Program.cs",
-              "RelativeToolTip": "Clientes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T13:19:16.925Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -78,14 +47,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Clientes\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Models\\Cliente.cs",
-              "RelativeToolTip": "Clientes\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAABJAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Clientes\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Clientes\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T19:33:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clientes\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Clientes\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T19:31:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clientes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clientes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T19:13:40.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clientes\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Clientes\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T19:04:40.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clientes\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Clientes\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T18:05:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Clientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Clientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T23:20:36.368Z",
+              "WhenOpened": "2024-02-23T14:36:57.458Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +130,7 @@
               "RelativeDocumentMoniker": "Clientes\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lrsia\\Documents\\GitHub\\CRUD-Clientes\\CRUD Clientes\\Clientes\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Clientes\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-22T22:16:11.891Z",
               "EditorCaption": ""
